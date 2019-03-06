@@ -1,6 +1,9 @@
 # hello-world
 > 一些技术使用Demo
 
+### dotNetDemo
+一些基础知识点测试
+
 ### Sqlite
 * 安装SQLite Manager，打开xxx.db3文件，新建Evernts表格
 * 封装对表格数据的CRUD操作
@@ -15,4 +18,7 @@
 		this.TransparencyKey = Color.White;  
 
 ### Window Service
+
+### HostIP
+* 获取本地IP地址方法封装
 

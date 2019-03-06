@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteDemo", "SQLiteDemo\SQLiteDemo.csproj", "{2F70D296-6FA3-46BB-8126-A81C7B77FDC9}"
 EndProject
@@ -10,6 +10,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPOI.Demo", "NPOI.Demo\NPOI.Demo.csproj", "{EDE2CD30-B105-4186-856F-A39D6929C087}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService.Demo", "WindowsService.Demo\WindowsService.Demo.csproj", "{6A92EA9C-E456-4CD2-B510-AEE8CB0253A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetDemo", "DotNetDemo\DotNetDemo.csproj", "{601BB9B6-7315-488D-8EAF-5941D5415A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostIP", "HostIP\HostIP.csproj", "{06BD864E-0261-42BA-BE76-3968C2FF0411}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,8 +65,35 @@ Global
 		{6A92EA9C-E456-4CD2-B510-AEE8CB0253A5}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{6A92EA9C-E456-4CD2-B510-AEE8CB0253A5}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{6A92EA9C-E456-4CD2-B510-AEE8CB0253A5}.Release|x86.ActiveCfg = Release|Any CPU
+		{601BB9B6-7315-488D-8EAF-5941D5415A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601BB9B6-7315-488D-8EAF-5941D5415A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601BB9B6-7315-488D-8EAF-5941D5415A43}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{601BB9B6-7315-488D-8EAF-5941D5415A43}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{601BB9B6-7315-488D-8EAF-5941D5415A43}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{601BB9B6-7315-488D-8EAF-5941D5415A43}.Debug|x86.Build.0 = Debug|Any CPU
+		{601BB9B6-7315-488D-8EAF-5941D5415A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601BB9B6-7315-488D-8EAF-5941D5415A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601BB9B6-7315-488D-8EAF-5941D5415A43}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{601BB9B6-7315-488D-8EAF-5941D5415A43}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{601BB9B6-7315-488D-8EAF-5941D5415A43}.Release|x86.ActiveCfg = Release|Any CPU
+		{601BB9B6-7315-488D-8EAF-5941D5415A43}.Release|x86.Build.0 = Release|Any CPU
+		{06BD864E-0261-42BA-BE76-3968C2FF0411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06BD864E-0261-42BA-BE76-3968C2FF0411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06BD864E-0261-42BA-BE76-3968C2FF0411}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{06BD864E-0261-42BA-BE76-3968C2FF0411}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{06BD864E-0261-42BA-BE76-3968C2FF0411}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{06BD864E-0261-42BA-BE76-3968C2FF0411}.Debug|x86.Build.0 = Debug|Any CPU
+		{06BD864E-0261-42BA-BE76-3968C2FF0411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06BD864E-0261-42BA-BE76-3968C2FF0411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06BD864E-0261-42BA-BE76-3968C2FF0411}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{06BD864E-0261-42BA-BE76-3968C2FF0411}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{06BD864E-0261-42BA-BE76-3968C2FF0411}.Release|x86.ActiveCfg = Release|Any CPU
+		{06BD864E-0261-42BA-BE76-3968C2FF0411}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B33C1BB-21EC-4538-9CE8-1A480C5D9374}
 	EndGlobalSection
 EndGlobal
